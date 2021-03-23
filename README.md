@@ -1,2 +1,1 @@
-# port-scanner
-Simple port scanner
+# Port Scanner
