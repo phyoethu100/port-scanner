@@ -10,7 +10,7 @@ def scan_port(port):
     if s.connect_ex((host, port)):
         print(f"The port is closed on host: {host} and port: {port}")
     else:
-        print(f"The port is open on host: {host} and port: {port}")
+        print(f"The port is opened on host: {host} and port: {port}")
 
 
 scan_port(port)
